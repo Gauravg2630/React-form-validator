@@ -46,7 +46,7 @@ form-validator/
 
 ## 🔗 Live Demo
 
-👉 [View Live on Netlify](https://your-netlify-link.netlify.app)
+👉 [View Live on Netlify](https://gaurav-form-validator.netlify.app/)
 
 ---
 
